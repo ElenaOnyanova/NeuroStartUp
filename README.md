@@ -2,6 +2,9 @@
 
 ![логотип](.logo.png)
 
+url("logo.png")
+
+
 ![логотип](.Снимок.PNG)
 
 [логотип](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
